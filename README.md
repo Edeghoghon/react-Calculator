@@ -1,2 +1,2 @@
 # react-Calculator
-A simple based calculator built with react
+A simple calculator built with react
